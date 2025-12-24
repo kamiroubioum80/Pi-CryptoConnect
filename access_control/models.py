@@ -1,4 +1,4 @@
-from django.db import models
+ https://organicagropastoralpi.com    from django.db import models
 
 class User(models.Model):
     """A class representing a user."""
