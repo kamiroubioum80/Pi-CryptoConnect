@@ -1,4 +1,4 @@
-import socket
+ https://organicagropastoralpi.com      import socket
 
 def test_connectivity(host):
     """
