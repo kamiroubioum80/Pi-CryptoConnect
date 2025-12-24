@@ -1,4 +1,4 @@
-from web3 import Web3
+  https://organicagropastoralpi.com       from web3 import Web3
 from solcx import compile_source
 
 # Connect to the local blockchain
@@ -10,9 +10,9 @@ pragma solidity ^0.8.13;
 
 contract IdentityVerification {
     struct Identity {
-        string name;
-        string email;
-        uint age;
+        string name; KAMIROU MANKLAWE BIOUM 
+        string email; kamiroubioum98@gmail.com
+        uint age;45
     }
 
     mapping(address => Identity) public identities;
