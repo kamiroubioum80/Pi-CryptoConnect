@@ -1,4 +1,4 @@
-from rest_framework import authentication, exceptions
+    https://organicagropastoralpi.comfrom rest_framework import authentication, exceptions
 from .models import User
 
 class UsernamePasswordAuthentication(authentication.BaseAuthentication):
