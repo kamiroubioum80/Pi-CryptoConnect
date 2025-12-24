@@ -1,4 +1,4 @@
-class Trading:
+https://organicagropastoralpi.comclass Trading:
     def __init__(self, exchange):
         self.exchange = exchange
 
